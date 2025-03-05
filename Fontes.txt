@@ -1,0 +1,64 @@
+Fontes:
+
+https://databank.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG/1ff4a498/Popular-Indicators#
+
+
+
+Mobile cellular subscriptions - Argentina
+
+https://data.worldbank.org/indicator/IT.CEL.SETS?locations=AR&view=chart
+
+
+
+Individuals Using the Internet (%of population) - Argentina
+
+https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=AR
+
+
+
+Fixed broadband subscriptions (per 100 people)
+
+https://data.worldbank.org/indicator/IT.NET.BBND.P2?locations=AR
+
+
+
+Secure Internet servers - Argentina
+
+https://data.worldbank.org/indicator/IT.NET.SECR?locations=AR
+
+
+
+Expansão das Conexões de Banda Larga e Implementação do 5G
+
+https://www.datacenterdynamics.com/br/not%C3%ADcias/claro-argentina-escolhe-a-nokia-para-a-implementacao-do-5g/
+
+
+
+Aumento do Acesso em Áreas Rurais
+
+https://brechazero.com.br/argentina-aumenta-em-30-o-acesso-rural-a-internet-entre-2021-e-2022/
+
+
+
+Programas Comunitários de Inclusão Digital
+
+https://somosiberoamerica.org/pt-br/temas/inclusion-pt-br/ponto-digital-a-rede-que-conecta-a-cidadania-com-seus-direitos-na-argentina/
+
+
+
+Investimentos em Redes Móveis
+
+https://www.gsma.com/about-us/regions/latin-america/wp-content/uploads/2023/08/290623-5G-in-Latam-POR.pdf
+
+
+
+Políticas Públicas de Inclusão Digital
+
+https://brechazero.com.br/argentina-avanca-em-seu-plano-de-inclusao-digital/
+
+
+
+
+
+
+
