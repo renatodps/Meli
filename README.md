@@ -1,7 +1,7 @@
 Esse arquivo de ReadMe é para identificar cada arquivo aqui do GitHub
 
 Challenge Analytics
-Meli.pbix - Arquivo que tem todas as Análises da parte de Analytics na 3a aba do relatórios, na primeira Aba os Dashboard com fonte de dados na Base de Dados Mundial
+Meli.pbix -1a Aba - Dashboard, 2a Aba - Análises do Desafio de Analytics, 3a aba - Fontes
 Fontes.txt - Arquivo que contém somente as fontes de dados
 
 Challenge Engineer - Primera Parte - SQL
